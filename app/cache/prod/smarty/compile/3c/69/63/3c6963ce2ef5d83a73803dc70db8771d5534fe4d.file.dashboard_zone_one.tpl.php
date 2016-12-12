@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-11-07 16:06:13
+<?php /* Smarty version Smarty-3.1.19, created on 2016-12-09 23:41:52
          compiled from "/var/www/html/rupsar/modules/dashactivity/views/templates/hook/dashboard_zone_one.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:6622767235820ecc56ea574-20332496%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     '3c6963ce2ef5d83a73803dc70db8771d5534fe4d' => 
     array (
       0 => '/var/www/html/rupsar/modules/dashactivity/views/templates/hook/dashboard_zone_one.tpl',
-      1 => 1478548467,
+      1 => 1481338687,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5820ecc57773a1_06777108',
   'variables' => 
   array (
     'allow_push' => 0,
@@ -28,8 +30,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'date_format' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5820ecc57773a1_06777108',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5820ecc57773a1_06777108')) {function content_5820ecc57773a1_06777108($_smarty_tpl) {?>
 <section id="dashactivity" class="panel widget<?php if ($_smarty_tpl->tpl_vars['allow_push']->value) {?> allow_push<?php }?>">

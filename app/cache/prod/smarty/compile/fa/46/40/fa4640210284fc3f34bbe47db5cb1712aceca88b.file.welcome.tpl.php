@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-11-07 16:06:12
+<?php /* Smarty version Smarty-3.1.19, created on 2016-12-09 23:41:50
          compiled from "/var/www/html/rupsar/modules/welcome/views/contents/welcome.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:6392965335820ecc4a8ba58-34741624%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'fa4640210284fc3f34bbe47db5cb1712aceca88b' => 
     array (
       0 => '/var/www/html/rupsar/modules/welcome/views/contents/welcome.tpl',
-      1 => 1478548467,
+      1 => 1481338687,
       2 => 'file',
     ),
   ),
@@ -15,9 +15,9 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
-  'has_nocache_code' => false,
   'version' => 'Smarty-3.1.19',
   'unifunc' => 'content_5820ecc4aa8d77_84903370',
+  'has_nocache_code' => false,
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5820ecc4aa8d77_84903370')) {function content_5820ecc4aa8d77_84903370($_smarty_tpl) {?>
 
