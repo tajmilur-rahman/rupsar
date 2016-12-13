@@ -1,11 +1,15 @@
 <?php return array (
   'parameters' => 
   array (
-    'database_host' => '127.0.0.1',
+    /*'database_host' => '127.0.0.1',*/
+    'database_host' => 'rupsar.com.mysql',
     'database_port' => '',
-    'database_name' => 'rupsar',
-    'database_user' => 'root',
-    'database_password' => 'karmadharRL-32',
+    /*'database_name' => 'rupsar',*/
+    'database_name' => 'rupsar_com',
+    /*'database_user' => 'root',*/
+    'database_user' => 'rupsar_com',
+    /*'database_password' => 'karmadharRL-32',*/
+    'database_password' => 'bkexNKTz',
     'database_prefix' => 'ps_',
     'database_engine' => 'InnoDB',
     'mailer_transport' => 'smtp',
