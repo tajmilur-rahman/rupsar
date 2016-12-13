@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-11-07 16:06:13
+<?php /* Smarty version Smarty-3.1.19, created on 2016-12-09 23:41:52
          compiled from "/var/www/html/rupsar/modules/dashgoals/views/templates/hook/dashboard_zone_two.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:2244263215820ecc57b76a8-49508291%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'd3c0803d4d639b6c1e7ded2574e3f6627b7686a2' => 
     array (
       0 => '/var/www/html/rupsar/modules/dashgoals/views/templates/hook/dashboard_zone_two.tpl',
-      1 => 1478548467,
+      1 => 1481338687,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5820ecc57dd8c0_63826184',
   'variables' => 
   array (
     'currency' => 0,
@@ -23,8 +25,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'colors' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5820ecc57dd8c0_63826184',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5820ecc57dd8c0_63826184')) {function content_5820ecc57dd8c0_63826184($_smarty_tpl) {?>
 <div class="clearfix"></div>

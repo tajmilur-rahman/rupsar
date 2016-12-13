@@ -1,4 +1,4 @@
-<?php /* Smarty version Smarty-3.1.19, created on 2016-11-07 15:03:34
+<?php /* Smarty version Smarty-3.1.19, created on 2016-12-09 23:41:40
          compiled from "/var/www/html/rupsar/themes/javascript.tpl" */ ?>
 <?php /*%%SmartyHeaderCode:17770509225820de16e0da64-84851290%%*/if(!defined('SMARTY_DIR')) exit('no direct access allowed');
 $_valid = $_smarty_tpl->decodeProperties(array (
@@ -7,7 +7,7 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'fbe159f04878f9cd9833a4edae8fe75f979ce560' => 
     array (
       0 => '/var/www/html/rupsar/themes/javascript.tpl',
-      1 => 1478548468,
+      1 => 1481338653,
       2 => 'file',
     ),
   ),
@@ -15,6 +15,8 @@ $_valid = $_smarty_tpl->decodeProperties(array (
   'function' => 
   array (
   ),
+  'version' => 'Smarty-3.1.19',
+  'unifunc' => 'content_5820de16e33c42_49500751',
   'variables' => 
   array (
     'js_def' => 0,
@@ -26,8 +28,6 @@ $_valid = $_smarty_tpl->decodeProperties(array (
     'inline' => 0,
   ),
   'has_nocache_code' => false,
-  'version' => 'Smarty-3.1.19',
-  'unifunc' => 'content_5820de16e33c42_49500751',
 ),false); /*/%%SmartyHeaderCode%%*/?>
 <?php if ($_valid && !is_callable('content_5820de16e33c42_49500751')) {function content_5820de16e33c42_49500751($_smarty_tpl) {?>
 <?php if (isset($_smarty_tpl->tpl_vars['js_def']->value)&&is_array($_smarty_tpl->tpl_vars['js_def']->value)&&count($_smarty_tpl->tpl_vars['js_def']->value)) {?>
