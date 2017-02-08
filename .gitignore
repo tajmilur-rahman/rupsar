@@ -2,4 +2,6 @@
 *.mpeg4
 *.mpg4
 *.zip
-app/cache/
+app/config/parameters.php
+app/cache/prod/appParameters.php
+app/cache/prod/smarty/compile/

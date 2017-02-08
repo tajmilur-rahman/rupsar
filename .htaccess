@@ -1,3 +1,8 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^rupsar.local$
+RewriteRule ^admin\/?$ %{ENV:REWRITEBASE}admin8583v5mre [L]
+
 # =============   ADDED ROUTES   ==========  START  ============
 Options +FollowSymLinks
 RewriteEngine on
